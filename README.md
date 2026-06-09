@@ -1,6 +1,8 @@
 # django-file-upload-using-ajax project
 This project is about how to upload files in Django using AJAX
 
+Tech Stack:- Python,HTML
+
 A simple approach on how to pass the images/files from frontend to the django using AJAX code is given in this project.
 
 Rerqquirements to run this project on your system:
